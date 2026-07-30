@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiendanube App v3"
+  short_description: "Construye apps Tiendanube según DevHub oficial"
+  default_prompt: "Usa $skillv3 para diseñar o implementar una app de Tiendanube con la arquitectura y SDK correctos."
